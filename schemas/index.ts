@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import healthCare from './health-care'
+
+export const schemaTypes = [healthCare]
